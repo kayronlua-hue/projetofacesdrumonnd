@@ -1,12 +1,4 @@
 /admin https://revistas-do-campus.kayronlua.chatgpt.site/admin 302!
 /api/* https://revistas-do-campus.kayronlua.chatgpt.site/api/:splat 200
-/assets/* https://revistas-do-campus.kayronlua.chatgpt.site/assets/:splat 200
-/drummond/* https://revistas-do-campus.kayronlua.chatgpt.site/drummond/:splat 200
-/editorial/* https://revistas-do-campus.kayronlua.chatgpt.site/editorial/:splat 200
-/faces/* https://revistas-do-campus.kayronlua.chatgpt.site/faces/:splat 200
-/student-work/* https://revistas-do-campus.kayronlua.chatgpt.site/student-work/:splat 200
-/favicon.svg https://revistas-do-campus.kayronlua.chatgpt.site/favicon.svg 200
-/file.svg https://revistas-do-campus.kayronlua.chatgpt.site/file.svg 200
-/globe.svg https://revistas-do-campus.kayronlua.chatgpt.site/globe.svg 200
-/window.svg https://revistas-do-campus.kayronlua.chatgpt.site/window.svg 200
+/editorial/ifa-equipe-dany.pdf https://revistas-do-campus.kayronlua.chatgpt.site/editorial/ifa-equipe-dany.pdf 200
 /* /index.html 200
